@@ -17,7 +17,7 @@ Danny's Diner is a SQL Case Study, which answers questions to the customer's pur
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 
-This case study has been taken from https://8weeksqlchallenge.com/case-study-1/. It contains the datasets of the tables Sales, Menu, Members
+This case study has been taken from https://8weeksqlchallenge.com/case-study-1/. It contains the datasets for the tables Sales, Menu, Members
 
 **SALES:**
 - CUSTOMER_ID
